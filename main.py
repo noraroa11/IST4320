@@ -1,0 +1,1 @@
+print("tanji is the best in the world")
